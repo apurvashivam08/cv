@@ -1,0 +1,119 @@
+body{
+	margin: 0;
+	text-align: center;
+	background-color: #9df3c4;
+	font-family: 'Manrope', sans-serif;
+	font-size: 120%;
+
+	
+}
+.top-cont{
+    font-size: 140%;
+	background-color: #1fab89;
+	padding-top: 50px;
+	color: #40514e;
+	font-weight: bold;
+
+}
+h1{
+	font-size: 8rem;
+	margin:auto;
+	font-family: 'Satisfy', cursive;
+	
+}
+.pro{
+	text-decoration: underline;
+}
+h2{
+	font-family: 'Comic Neue', cursive;
+	font-size: 2rem;
+	color: #404b69;
+}
+h3{
+	font-family: 'Comic Neue', cursive;
+	font-size: 1.6rem;
+	color: #40514e;
+}
+.middle-cont{
+	margin: 70px 0;
+}
+hr{
+	border: dotted #7a8b88 12px;
+	border-bottom: none;
+	width: 6%;
+	margin: 100px auto;
+}
+.bottom-cont{
+	background-color: #1fab89;
+	padding: 50px 0 20px;
+}
+.skill-row{
+	width:50%;
+	margin:90px auto 90px auto;
+	text-align: left;
+	line-height: 2;
+}
+.wb{
+	float: left;
+	width: 30%;
+	margin-right: 50px;
+
+
+}
+.python{
+	float: right;
+	width: 30%;
+	margin-left: 50px;
+
+
+
+}
+.mus{
+	float: left;
+	width: 30%;
+	margin-right: 50px;
+}
+.profile-pic{
+	width: 15%;
+}
+
+.btn {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #63e6ad), color-stop(1, #4bcf93) );
+	background:-moz-linear-gradient( center top, #63e6ad 5%, #4bcf93 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#63e6ad', endColorstr='#4bcf93');
+	background-color:#63e6ad;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:20px;
+	font-weight:normal;
+	font-style:normal;
+height:44px;
+	line-height:44px;
+width:172px;
+	text-decoration:none;
+	text-align:center;
+}
+.btn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #4bcf93), color-stop(1, #63e6ad) );
+	background:-moz-linear-gradient( center top, #4bcf93 5%, #63e6ad 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#4bcf93', endColorstr='#63e6ad');
+	background-color:#4bcf93;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
